@@ -1,5 +1,5 @@
 # SpotLightV
-A 
+
 ## Description : 
 A simple Telegram bot powered primarily by a GPT model, with features that are enhanced by AI capabilities! Perhaps even combined!
 
