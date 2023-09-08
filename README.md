@@ -9,8 +9,8 @@ As an initial step, I've already developed a sub-module called "NewsReader." It'
 In summary, I hope this project will be beneficial overall!
 
 ## Installation & Setup :
-1. Get an telegram bot API token from bot father.
-2. Get an NewsAPI token from newsapi.org website.
+1. Get a telegram bot API token from bot father.
+2. Get a NewsAPI token from newsapi.org website.
 3. Place API tokens at config.ini . ( You can also change other default parameters )
 4. pip install -r requirements.txt
 5. execute main.py
