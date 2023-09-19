@@ -1,5 +1,4 @@
 # SpotLightV
-## Description : 
 A simple Telegram bot powered primarily by a GPT model, with features that are enhanced by AI capabilities! Perhaps even combined!
 
 You can also create your own sub-module within the DSM (which supersedes the core module), using AI models provided by GPT4Free. For instance, a Telegram group moderator equipped with word recognition abilities can identify abusive language and issue warnings!
